@@ -1,5 +1,5 @@
 # MSPpro1-频谱表示与频域迁移
-
+''' Spectrum representation and frequency domain migration
 #### 1.create_spectrum3domain.py 得到3个域的频谱图
 
 #### 2.pca_n=2.py & tsne_n=2.py 对比两个降维算法差异
